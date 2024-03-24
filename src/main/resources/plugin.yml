@@ -1,0 +1,5 @@
+name: CTF_Beacon
+version: '${project.version}'
+main: com.purehavoc.ctf_beacon.CTF_Beacon
+api-version: '1.20'
+depend: [MedievalFactions]
